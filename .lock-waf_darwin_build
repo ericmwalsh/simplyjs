@@ -1,0 +1,8 @@
+argv = ['/Users/ericwalsh/Documents/Programming Resources/Pebble/Pebble/waf', 'configure', 'build']
+environ = {'TERM_SESSION_ID': 'EB4842EF-4406-47D7-AF11-904FCB44CF6E', 'SSH_AUTH_SOCK': '/tmp/launch-zJSfcR/Listeners', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'TERM_PROGRAM_VERSION': '326', 'SHELL': '/bin/bash', 'LOGNAME': 'ericwalsh', 'USER': 'ericwalsh', 'HOME': '/Users/ericwalsh', 'PATH': '/Users/ericwalsh/Documents/Programming Resources/Pebble/arm-cs-tools/bin:/Users/ericwalsh/Documents/Programming Resources/pebble/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin', 'TMPDIR': '/var/folders/tw/fs54jj4937540wh3drdlnp_r0000gn/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'LANG': 'en_US.UTF-8', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/tmp/launch-1Gw9m9/Render', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '1', 'OLDPWD': '/Users/ericwalsh/Documents/Programming Resources', '__CF_USER_TEXT_ENCODING': '0x1F5:0:0', 'PWD': '/Users/ericwalsh/Documents/Programming Resources/simplyjs', '_': '/Users/ericwalsh/Documents/Programming Resources/pebble/bin/pebble', '__CHECKFIX1436934': '1', 'PEBBLE_PHONE': '10.55.55.40'}
+files = ['/Users/ericwalsh/Documents/Programming Resources/simplyjs/wscript']
+hash = -1145021115606234817
+options = {'files': '', 'jobs': 4, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
+out_dir = '/Users/ericwalsh/Documents/Programming Resources/simplyjs/build'
+run_dir = '/Users/ericwalsh/Documents/Programming Resources/simplyjs'
+top_dir = '/Users/ericwalsh/Documents/Programming Resources/simplyjs'
