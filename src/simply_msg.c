@@ -72,6 +72,13 @@ static void handle_set_style(DictionaryIterator *iter, SimplyData *simply) {
   }
 }
 
+static void handle_set_graph(DictionaryIterator *iter, SimplyData *simply) {
+  Tuple *tuple;
+  if ((tuple = dict_find(iter, 1))) {
+    simply_set_graph(simply, tuple->value->data);
+  }
+}
+
 static void received_callback(DictionaryIterator *iter, void *context) {
   Tuple *tuple = dict_find(iter, 0);
   if (!tuple) {
